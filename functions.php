@@ -32,5 +32,8 @@ function hello_elementor_child_scripts_styles() {
 		HELLO_ELEMENTOR_CHILD_VERSION
 	);
 
+  add_theme_support( 'editor-styles' );
+  add_editor_style( 'editor-styles.css' );	
+
 }
 add_action( 'wp_enqueue_scripts', 'hello_elementor_child_scripts_styles', 20 );
