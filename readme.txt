@@ -1,10 +1,10 @@
 === B2T Hello Elementor Child ===
 
 Contributors: elemntor, KingYes, ariel.k, jzaltzberg, mati1000, bainternet, mwender, thewebist
-Requires at least: 5.9
-Tested up to: 6.2
+Requires at least: 6.7
+Tested up to: 7.0
 Stable tag: 2.0.0
-Version: 2.0.1
+Version: 2.0.2
 Requires PHP: 5.6
 License: GNU General Public License v3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
@@ -43,6 +43,9 @@ License: CC0 1.0 Universal (CC0 1.0)
 Source: https://stocksnap.io/photo/4B83RD7BV9
 
 == Changelog ==
+
+= 2.0.2 - 2026-06-08 =
+* Updating theme screenshot.
 
 = 2.0.1 - 2026-06-08 =
 * Bumping WooCommerce version for `woocommerce/emails/` files.
